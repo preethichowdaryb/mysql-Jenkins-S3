@@ -1,0 +1,18 @@
+# Do not commit environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings folder
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
